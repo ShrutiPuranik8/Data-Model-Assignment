@@ -1,0 +1,21 @@
+<entity-engine-xml>
+
+    <Party partyId="Company001" partyTypeId="PARTY_GROUP"/>
+    <PartyRole partyId="Company001" roleTypeId="INTERNAL_ORGANIZATIO"/>
+    <PartyRole partyId="Company001" roleTypeId="PARENT_ORGANIZATION"/>
+    <PartyGroup partyId="Company001" groupName="CompanyOne"/>
+
+
+    <Party partyId="Company002" partyTypeId="PARTY_GROUP"/>
+    <PartyRole partyId="Company002" roleTypeId="INTERNAL_ORGANIZATIO"/>
+    <PartyRole partyId="Company002" roleTypeId="PARENT_ORGANIZATION"/>
+    <PartyGroup partyId="Company002" groupName="CompanyTwo"/>
+
+
+    <Party partyId="Company003" partyTypeId="PARTY_GROUP"/>
+    <PartyRole partyId="Company003" roleTypeId="INTERNAL_ORGANIZATIO"/>
+    <PartyRole partyId="Company003" roleTypeId="PARENT_ORGANIZATION"/>
+    <PartyGroup partyId="Company003" groupName="CompanyThree"/>
+
+
+</entity-engine-xml>
